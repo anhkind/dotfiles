@@ -87,6 +87,7 @@ brew cask install franz
 brew cask install google-chrome
 brew cask install intellij-idea
 brew cask install iterm2
+brew cask install java
 brew cask install pgadmin3
 brew cask install sequel-pro
 brew cask install sourcetree
