@@ -60,6 +60,7 @@ brew install homebrew/dupes/screen
 brew install autoconf
 brew install automake
 brew install nmap
+brew install openssl
 brew install pkg-config
 brew install readline
 brew install xz
@@ -69,10 +70,28 @@ brew install git
 brew install imagemagick
 brew install memcached
 brew install mysql
-brew install openssl
-brew install postgres
+brew install node
+brew install postgresql
 brew install redis
 brew install terminal-notifier
+
+# Install Cask
+brew tap caskroom/cask
+
+# Install apps with Cask
+brew cask install android-file-transfer
+brew cask install atom
+brew cask install calibre
+brew cask install firefox
+brew cask install franz
+brew cask install google-chrome
+brew cask install intellij-idea
+brew cask install iterm2
+brew cask install pgadmin3
+brew cask install sequel-pro
+brew cask install sourcetree
+brew cask install the-unarchiver
+brew cask install vlc
 
 # Remove outdated versions from the cellar.
 brew cleanup
