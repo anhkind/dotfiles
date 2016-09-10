@@ -62,6 +62,7 @@ brew install automake
 brew install nmap
 brew install openssl
 brew install pkg-config
+brew install qt
 brew install readline
 brew install xz
 
