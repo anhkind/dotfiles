@@ -1,3 +1,6 @@
+# fix warning from rvm and the likes
+source ~/.profile
+
 # fix warning from Homebrew
 export PATH="/usr/local/sbin:$PATH"
 
