@@ -1,4 +1,4 @@
-# fix warning from HomeBrew
+# fix warning from Homebrew
 export PATH="/usr/local/sbin:$PATH"
 
 # Load the shell dotfiles, and then some:
