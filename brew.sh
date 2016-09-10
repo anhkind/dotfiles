@@ -71,7 +71,7 @@ brew install imagemagick
 brew install memcached
 brew install mysql
 brew install node
-brew install postgresql
+brew install postgresql94
 brew install redis
 brew install terminal-notifier
 
