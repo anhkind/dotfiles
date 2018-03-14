@@ -82,6 +82,7 @@ brew tap caskroom/cask
 # Install apps with Cask
 brew cask install android-file-transfer
 brew cask install atom
+brew cask install caffeine
 brew cask install calibre
 brew cask install firefox
 brew cask install franz
